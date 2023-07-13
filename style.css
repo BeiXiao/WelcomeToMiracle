@@ -21,14 +21,14 @@ a:hover {color: #336699; text-decoration: underline;}
 	width: 120px;
 	margin: 0 auto 50px auto; padding: 4px 0;
 	
-	color: #666;
-	border: 2px #999 solid;
+	color: #484848;
 	border-radius: 4px; -moz-border-radius: 4px; -webkit-border-radius: 4px;
 	font-size: 24px;
 	text-align: center;
 }
-.warning {background: #ffcc66;}
-.fail {background: #ff9999;}
+
+.warning {background: #ffcc33;}
+.fail {background: #ff6363;}
 
 .tip {text-align: center;}
 .tip strong {margin-right: 5px;}
